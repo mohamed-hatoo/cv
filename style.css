@@ -1,0 +1,25 @@
+h1 {
+    color:white;
+    text-align: center;
+}
+h2{
+    color:blue;
+    text-align: center;
+}
+li{color:whitesmoke;
+text-align: start
+;}
+body {
+    background-color:rgb(44, 36, 36);
+    
+}
+li{ color: crimson;   
+
+}
+p{color: hotpink;
+
+
+}
+em{color: blueviolet;}
+br{color: black;}
+.chicken{color: yellow;}
